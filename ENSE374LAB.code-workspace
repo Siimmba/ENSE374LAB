@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "SSH FS - Tiatan CS 215",
+			"uri": "ssh://titan_cs215/home/hercules/s/sbp641"
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,86 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+
+body{
+    background-color: rgb(254, 253, 253);
+    font-family:'Times New Roman', Times, serif;
+    width: 100%;
+    text-align: center;
+}
+
+
+header{
+margin-top: 50px;
+margin-bottom: 50px;
+ text-align: center;
+ justify-self: center;
+ align-self: center;
+}
+
+
+div.half1{
+    display: block;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    border: 3px solid rgb(188, 187, 187)d;
+}
+
+
+div.half2{
+    background-color: #ffffff;
+    display: block;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+}
+
+
+div.block {
+    display: block;
+    text-align: center;
+    margin: auto;
+    width: 35%;
+    background-color: #ffffff;
+    box-shadow: 4px 3px 8px 1px #969696;
+    padding: 5px;
+    
+}
+
+
+div.block3 {
+    display: block;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    background-color: #F0F5F9;
+    box-shadow: 4px 3px 8px 1px #969696;
+    padding: 10px;
+    
+}
+
+
+div.block2 {
+    display: block;
+    text-align: center;
+    margin: 50px auto;
+    width: 35%;
+    background-color: #F0F5F9;
+    box-shadow: 4px 3px 8px 1px #969696;
+    
+    
+}
+
+
+#line::placeholder{
+    text-decoration: line-through !important;
+}
+
+
+#check{
+    height: 100% !important;
+}
+
+.form{
+    margin: 25px;
+}
